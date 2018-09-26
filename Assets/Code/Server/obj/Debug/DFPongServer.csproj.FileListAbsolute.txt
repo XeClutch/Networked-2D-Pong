@@ -1,0 +1,9 @@
+C:\Users\Ozerian\documents\visual studio 2015\Projects\DFPongServer\DFPongServer\bin\Debug\DFPongServer.dll
+C:\Users\Ozerian\documents\visual studio 2015\Projects\DFPongServer\DFPongServer\bin\Debug\DFPongServer.pdb
+C:\Users\Ozerian\documents\visual studio 2015\Projects\DFPongServer\DFPongServer\bin\Debug\DarkRift.dll
+C:\Users\Ozerian\documents\visual studio 2015\Projects\DFPongServer\DFPongServer\bin\Debug\DarkRift.Server.dll
+C:\Users\Ozerian\documents\visual studio 2015\Projects\DFPongServer\DFPongServer\bin\Debug\DarkRift.xml
+C:\Users\Ozerian\documents\visual studio 2015\Projects\DFPongServer\DFPongServer\bin\Debug\DarkRift.Server.xml
+C:\Users\Ozerian\documents\visual studio 2015\Projects\DFPongServer\DFPongServer\obj\Debug\DFPongServer.csprojResolveAssemblyReference.cache
+C:\Users\Ozerian\documents\visual studio 2015\Projects\DFPongServer\DFPongServer\obj\Debug\DFPongServer.dll
+C:\Users\Ozerian\documents\visual studio 2015\Projects\DFPongServer\DFPongServer\obj\Debug\DFPongServer.pdb
